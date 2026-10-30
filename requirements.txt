@@ -1,0 +1,8 @@
+autogen-agentchat
+autogen-ext[openai]
+python-dotenv
+streamlit
+networkx
+langchain-community
+langchain-openai
+langchain-experimental

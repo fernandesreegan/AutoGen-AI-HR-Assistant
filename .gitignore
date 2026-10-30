@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets (CRITICAL: keeps OPENAI_API_KEY private)
+.env
+.env.*
+!.env.example
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Streamlit local configuration and cache
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
